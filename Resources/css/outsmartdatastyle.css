@@ -1,0 +1,13 @@
+html{
+    font-family: octarine, Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    height: 400px;
+}
+
+.headercolor{
+    background-color: rgba(12, 5, 57, .5) ;
+    height: 100%;
+}
